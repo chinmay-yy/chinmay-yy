@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinmay-yy
-- 👀 I’m interested in cyber security, cloud computing, andriod app dev
-- 🌱 I’m currently learning andriod app dev using 'KOTLIN', DSA
+- 👀 I’m interested in full stack web dev, AI + dev
+- 🌱 I’m currently learning full stack, DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin, gmail
 - 😄 Pronouns: He/Him
