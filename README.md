@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @chinmay-yy
-- 👀 I’m interested in full stack web dev, AI + dev
-- 🌱 I’m currently learning full stack, DSA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin, gmail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
